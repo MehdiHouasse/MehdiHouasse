@@ -1,4 +1,4 @@
-## Hello, I'm [Mehdi Houasse]! 👋
+## Hello, I'm Mehdi Houasse! 👋
 
 Welcome to my GitHub profile.
 
