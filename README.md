@@ -38,8 +38,7 @@ I am a detail-oriented and passionate Software Engineer who enjoys developing us
 - Utilize Chart.js for visually insightful data representation
 
 ## Get in Touch
-[LinkedIn Badge](www.linkedin.com/in/
-mehdi-houasse)
+[LinkedIn Badge](www.linkedin.com/in/mehdi-houasse)
 
 Feel free to explore my repositories and reach out for collaborations or discussions. Let's create amazing things together!
 
